@@ -37,7 +37,7 @@ cpu-scheduling-simulator/
 ## 🚀 How to Run
 
 # Clone
-git clone https://github.com/yourusername/cpu-scheduling-simulator.git
+git clone https://github.com/MahimaSinghRathore/cpu-scheduling-simulator.git
 cd cpu-scheduling-simulator
 
 # Install
