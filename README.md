@@ -120,12 +120,6 @@ Install the required dependency.
 pip install Flask
 ```
 
-Alternatively, if a `requirements.txt` file is available:
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## Running the Application
